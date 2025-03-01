@@ -1,1 +1,1 @@
-# coding_practice-auto-encoder-
+# coding_practice_autoencoder
